@@ -1,0 +1,13 @@
+
+.profile__options{
+    background-color: #f94144;
+    text-decoration: none ;
+    color : white ; 
+    padding : 3px 20px ; 
+    margin : 5px 10px 5px 0  ; 
+    display: inline-block;
+}
+.profile__options:hover{
+    background-color: #eb5e28;
+    color: #fff ;
+}
